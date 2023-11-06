@@ -223,6 +223,11 @@ a.no-underline:hover {
   cursor: pointer;
 }
 
+a:visited { 
+  text-decoration: none; 
+  color:  rgb(1,29,203);
+ }
+
 /* Small devices (portrait tablets and large phones, 800px and below) */
 @media only screen and (max-width: 800px) {
   #footer {
