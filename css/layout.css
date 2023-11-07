@@ -82,7 +82,8 @@ body {
   margin: 0;
   padding: 0;
   color: rgb(1,29,203);
-  font-family: ITC Garamond Std;
+  font-family: 'Xanh Mono', monospace;
+  font-style: italic;
 }
 
 
@@ -212,7 +213,7 @@ body {
   
     .text-span-8 {
       padding-right: 1ch;
-      font-family: xanh mono;
+      font-family: 'Xanh Mono', monospace;
       font-size: 5vh;
       text-decoration: none;
     }
@@ -220,8 +221,8 @@ body {
     .title-large{
       font-size: 3.15vh;
       text-decoration: none;
-      font-family: neue-haas-grotesk-display, sans-serif;
-      font-weight: bolder;
+      font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+      font-weight: 600;
     }
 
     .discipline-tags {
@@ -239,7 +240,7 @@ body {
       border-width: 1px;
       border-radius: 20px;
       padding: .5em .6em;
-      font-family: Xanh Mono;
+      font-family: 'Xanh Mono', monospace;
       font-size: 14px;
       font-style: italic;
       font-weight: 400;
